@@ -1,16 +1,19 @@
 # AI Research Exploration
 
-AI 연구 분야를 탐색하고, 읽은 논문과 실행해 본 코드를 기록하는 저장소입니다.
+This repository is a space for exploring different areas of AI research and documenting the papers I read and the code I experiment with.
 
-## 기록 방법
+## How I Document My Exploration
 
-각 탐색 주제는 다음 형식으로 정리합니다.
+Each research topic is organized using the following structure:
 
-- 관심 분야와 질문
-- 읽은 논문: 문제, 핵심 아이디어, 인상 깊었던 점
-- 실행한 코드와 결과
-- 다음에 확인할 질문
+- **Research Interests & Questions**
+- **Papers Read**
+  - Problem
+  - Core Idea
+  - Key Takeaways
+- **Code Experiments & Results**
+- **Questions to Explore Next**
 
-## 시작 기록
+## Log
 
-- 2026-09-08: 저장소를 만들고 GitHub 연결을 설정했다.
+- **2026-09-08**: Created this repository and connected it to GitHub.
